@@ -1,0 +1,14 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.dish {
+    height: auto;
+    width: 400px;
+}
